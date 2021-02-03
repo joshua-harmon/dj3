@@ -10,7 +10,7 @@ django==1.6.11
 django-markwhat==1.6.2
 filelock==3.0.12
 idna==2.10
-importlib-metadata==3.4.0
+importlib-metadata==2.1.1
 keyring==5.7.1
 markdown2==2.4.0
 requests==2.25.1
